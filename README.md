@@ -1,5 +1,5 @@
-# Greeks-For-Greeks
-echo "# Greeks-For-Greeks" >> README.md
+# Geeks-For-Geeks
+echo "# Geeks-For-Geeks" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
